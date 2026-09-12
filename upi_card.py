@@ -193,3 +193,4 @@ data = {
 }
 df = pd.DataFrame(data)
 st.dataframe(df, hide_index=True, use_container_width=True)
+st.dataframe(df, hide_index=True, use_container_width=True)
